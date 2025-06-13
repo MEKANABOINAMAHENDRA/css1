@@ -1,0 +1,21 @@
+#main2{
+    background-color: yellow;
+    color: red;
+}
+.main3{
+    color:red;
+
+}
+.main4,.main5{
+    color: violet;
+}
+#main4{
+    color: blue;
+}
+.main6{
+    color: red;
+}
+*{
+    color: cornflowerblue;
+    background-color: lightgreen;
+}
